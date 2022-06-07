@@ -26,6 +26,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumaroi&show_icons=true&locale=en&layout=compact" alt="mumaroi" /></p>
 
+<hr>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mumaroi&show_icons=true&locale=en" alt="mumaroi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mumaroi&" alt="mumaroi" /></p>
